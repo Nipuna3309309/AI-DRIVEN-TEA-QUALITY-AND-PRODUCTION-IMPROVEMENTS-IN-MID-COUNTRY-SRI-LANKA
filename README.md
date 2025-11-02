@@ -23,8 +23,13 @@ Employs time-series forecasting on auction data to predict market demand and pri
 
 ## System Overview Diagram 
 
-![image alt](https://github.com/Nipuna3309309/AI-DRIVEN-TEA-QUALITY-AND-PRODUCTION-IMPROVEMENTS-IN-MID-COUNTRY-SRI-LANKA/blob/4f92d085b24fcfeefa7d980dbff24c041ded3166/System%20Overview%20Diagram%20F.png)
+<p align="center">
+  <img src="https://github.com/Nipuna3309309/AI-DRIVEN-TEA-QUALITY-AND-PRODUCTION-IMPROVEMENTS-IN-MID-COUNTRY-SRI-LANKA/blob/4f92d085b24fcfeefa7d980dbff24c041ded3166/System%20Overview%20Diagram%20F.png?raw=true" alt="System Overview Diagram" width="600">
+</p>
 
+Figure: High-level architecture integrating AI modules for grading, disease detection, yield forecasting, and market prediction.
+
+***
 
 ## Integrated Intelligence
 All outputs are combined into a single dashboard that displays key insights such as quality metrics, disease alerts, yield forecasts, and market demand predictions. This helps farmers, factory managers, and industry experts make quick, data-driven decisions.
