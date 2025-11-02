@@ -10,7 +10,7 @@ The proposed architecture is centered around four specialized, interconnected AI
 ### 1. Automated Tea Leaf Grading & Inspection 🌿
 Uses machine vision and deep learning models to classify leaf quality and freshness in real-time, ensuring consistent adherence to high standards and reducing manual errors and subjectivity.
 
-### 2. AI-Based Detection of Tea Plant Diseases 🐛
+### 2. AI-Based Detection of Tea Plant Diseases and Treatment Guidance 🐛
 A deep learning system analyzes leaf imagery to identify pests, diseases (e.g., blister blight), and invasive species early. It provides instant alerts for timely intervention, reducing crop damage and improving plantation health.
 
 ### 3. Predictive Analytics for Crop Yield 📈
@@ -23,11 +23,9 @@ Employs time-series forecasting on auction data to predict market demand and pri
 
 ## System Overview Diagram 
 
-<p align="center">
-  <img src="https://github.com/Nipuna3309309/AI-DRIVEN-TEA-QUALITY-AND-PRODUCTION-IMPROVEMENTS-IN-MID-COUNTRY-SRI-LANKA/blob/4f92d085b24fcfeefa7d980dbff24c041ded3166/System%20Overview%20Diagram%20F.png?raw=true" alt="System Overview Diagram" width="600">
-</p>
+![System Overview Diagram](https://github.com/Nipuna3309309/AI-DRIVEN-TEA-QUALITY-AND-PRODUCTION-IMPROVEMENTS-IN-MID-COUNTRY-SRI-LANKA/blob/4f92d085b24fcfeefa7d980dbff24c041ded3166/System%20Overview%20Diagram%20F.png?raw=true)
 
-Figure: High-level architecture integrating AI modules for grading, disease detection, yield forecasting, and market prediction.
+Figure: High-level architecture integrating AI modules for leaf grading, disease detection and treatment guidance, yield forecasting, and market prediction.
 
 ***
 
