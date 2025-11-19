@@ -69,12 +69,12 @@ This supports better planning of pruning, labor, and harvesting schedules.
 
 ### 4. Tea Market Demand & Price Prediction 💰
 This module forecasts weekly tea auction prices and optimal dispatch volumes while modeling real auction behavior.
-
--Data: Utilizes elevation-wise auction prices, factory volumes, and economic indicators.
--Models: SARIMAX and ARIMA–Random Forest predict price trends and factory dispatch volumes for Mid-Country tea.
--Simulation: A Multi-Agent System (MAS) models factories, buyers, and brokers, learning and adapting bidding strategies.
--Visualization: Insights are delivered through interactive dashboards built with Streamlit or Power BI.
-
+- Data: Utilizes elevation-wise auction prices, factory volumes, weather data, and economic indicators.  
+- Simulation: A Multi-Agent System (MAS) models factories, buyers, and brokers, learning and adapting bidding strategies.
+- Model:  SARIMAX and ARIMA–Random Forest predict price trends and factory dispatch volumes for Mid-Country tea.  
+- Output: Dashboards visualize production trends and enable informed decision-making for field management.
+- Visualization: Insights are delivered through interactive dashboards built with Power BI.
+  
 This helps factories and exporters plan sales strategies and optimize profitability.
 
 ***
