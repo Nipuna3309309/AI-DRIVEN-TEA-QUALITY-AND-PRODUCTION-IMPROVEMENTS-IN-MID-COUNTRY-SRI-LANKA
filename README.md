@@ -67,7 +67,7 @@ This module forecasts yield outcomes using environmental, climatic, and historic
 This supports better planning of pruning, labor, and harvesting schedules.
 
 
-### 4. Tea Market Demand & Price Prediction 💰
+### 4. Tea Market Demand Forecasting and Smart Auction Planning 💰
 This module forecasts weekly tea auction prices and optimal dispatch volumes while modeling real auction behavior.
 - Data: Utilizes elevation-wise auction prices, factory volumes, weather data, and economic indicators.  
 - Simulation: A Multi-Agent System (MAS) models factories, buyers, and brokers, learning and adapting bidding strategies.
