@@ -17,8 +17,8 @@ A deep learning system analyzes leaf imagery to identify pests, diseases (e.g., 
 ### 3. Predictive Analytics for Crop Yield 📈
 ML models analyze historical and environmental data (rainfall, temperature) to generate accurate production forecasts. This allows factories to optimize harvesting schedules and resource allocation.
 
-### 4. Tea Market Demand Prediction 💰
-Employs time-series forecasting on auction data to predict market demand and price trends, enabling smarter supply planning and maximizing auction revenue.
+### 4. Tea Market Demand Forecasting and Smart Auction Planning 💰
+Predicts tea auction prices across all elevations (Low, Mid, High) and forecasts the optimal weekly dispatch volumes for Mid-Country factories using advanced time-series models. Includes a smart auction simulation powered by a Multi-Agent System where factories, buyers, and brokers make decisions, compete, and learn strategies across simulations to optimize auction outcomes.
 
 ***
 
@@ -68,11 +68,12 @@ This supports better planning of pruning, labor, and harvesting schedules.
 
 
 ### 4. Tea Market Demand & Price Prediction 💰
-This component aligns production with market dynamics by forecasting auction prices and demand trends.  
-- Data: Uses auction datasets, export statistics, and economic indicators.  
-- Model: Hybrid models such as SARIMAX–XGBoost predict demand and pricing.  
-- Simulation: A Multi-Agent System (MAS) simulates buyer and broker behavior.  
-- Visualization: Results are shown through Power BI or Streamlit dashboards.  
+This module forecasts weekly tea auction prices and optimal dispatch volumes while modeling real auction behavior.
+
+-Data: Utilizes elevation-wise auction prices, factory volumes, and economic indicators.
+-Models: SARIMAX and ARIMA–Random Forest predict price trends and factory dispatch volumes for Mid-Country tea.
+-Simulation: A Multi-Agent System (MAS) models factories, buyers, and brokers, learning and adapting bidding strategies.
+-Visualization: Insights are delivered through interactive dashboards built with Streamlit or Power BI.
 
 This helps factories and exporters plan sales strategies and optimize profitability.
 
