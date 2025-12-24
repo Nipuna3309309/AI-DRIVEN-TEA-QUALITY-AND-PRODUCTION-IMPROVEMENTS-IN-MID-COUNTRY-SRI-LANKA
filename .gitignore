@@ -1,0 +1,73 @@
+# ============================
+# DATASETS (DO NOT COMMIT)
+# ============================
+datasets/
+train/
+valid/
+val/
+test/
+
+# YOLO labels/images sometimes live under these patterns too
+**/images/
+**/labels/
+
+# ============================
+# YOLO / ULTRALYTICS OUTPUTS
+# ============================
+runs/
+wandb/
+mlruns/
+logs/
+results*/
+weights*/
+**/weights/
+
+# model files / exports (don’t commit)
+*.pt
+*.onnx
+*.engine
+*.tflite
+*.torchscript
+*.pb
+*.ckpt
+
+# ============================
+# JUPYTER
+# ============================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ============================
+# PYTHON
+# ============================
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+ENV/
+env/
+
+# ============================
+# OS / EDITOR JUNK
+# ============================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+.vscode/
+.idea/
+
+# ============================
+# SECRETS
+# ============================
+.env
+.env.*
+*.key
+*.pem
